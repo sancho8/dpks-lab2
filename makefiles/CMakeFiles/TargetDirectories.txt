@@ -1,0 +1,3 @@
+/home/maria/lab2/makefiles/CMakeFiles/rebuild_cache.dir
+/home/maria/lab2/makefiles/CMakeFiles/lab2.dir
+/home/maria/lab2/makefiles/CMakeFiles/edit_cache.dir
